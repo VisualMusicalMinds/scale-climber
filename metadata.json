@@ -1,0 +1,7 @@
+{
+  "name": "Diatonic Voice Tower2",
+  "description": "A vocal pitch visualizer that maps your singing voice to a diatonic scale tower. Sing to move the box!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
